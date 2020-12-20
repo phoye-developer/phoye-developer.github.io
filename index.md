@@ -2,11 +2,13 @@
 
 # My Projects
 Here is a list of projects I have been working on:
-- HelloWorld
-- phoye-developer.github.io
-- markdown-portfolio
-- github-upload
-- github-slideshow
+<ul>
+  <li><a href="https://github.com/phoye-developer/HelloWorld">HelloWorld</a></li>
+  <li><a href="https://github.com/phoye-developer/phoye-developer.github.io">phoye-developer.github.io</a></li>
+  <li><a href="https://github.com/phoye-developer/markdown-portfolio">markdown-portfolio</a></li>
+  <li><a href="https://github.com/phoye-developer/github-upload">github=upload</a></li>
+  <li><a href="https://github.com/phoye-developer/github-slideshow">github-slideshow</a></li>
+</ul>
 
 # My Interests
 I'm interested in learning coding and software engineering.
