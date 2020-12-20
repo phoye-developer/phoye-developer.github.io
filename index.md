@@ -12,7 +12,12 @@ Here is a list of projects I have been working on:
 I'm interested in learning coding and software engineering.
 
 # My Blog
-This is still a work in progress.
+<ul>
+  {% for post in site.posts $}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+</ul>
 
 # Get in Touch
 <ul>
