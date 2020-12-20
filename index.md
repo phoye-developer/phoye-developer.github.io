@@ -16,6 +16,6 @@ This is still a work in progress.
 
 # Get in Touch
 <ul>
-  <li><a href="https://github.com/{{ site.github_username}}">GitHub</a></li>
-  <li><a href="https://linkedin.com/in/{{ site.linkedin_username}}">LinkedIn</a></li>
+  <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+  <li><a href="https://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></li>
 </ul>
