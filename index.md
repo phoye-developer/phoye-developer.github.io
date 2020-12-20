@@ -17,6 +17,7 @@ I'm interested in learning coding and software engineering.
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
+  {% endfor %}
 </ul>
 
 # Get in Touch
