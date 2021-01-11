@@ -11,7 +11,7 @@ Here is a list of projects I have been working on:
 </ul>
 
 # My Interests
-I'm interested in learning coding and software engineering.
+I am interested in learning coding and software engineering.
 
 # My Blog
 <ul>
